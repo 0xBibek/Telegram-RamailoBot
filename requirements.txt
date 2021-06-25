@@ -1,0 +1,5 @@
+PyTelegramBotAPI
+pytz
+nepali-date
+pause
+beautifulsoup4
